@@ -10,4 +10,5 @@ start task 클릭
 
 start tast 클릭
 
-![image](https://user-images.githubusercontent.com/70693435/124935127-53990c80-e040-11eb-9db8-9e8591524b58.png)
+![image](https://user-images.githubusercontent.com/70693435/124935287-7d523380-e040-11eb-91e9-846836cf70a4.png)
+
